@@ -1,1 +1,2 @@
-# P24-geogolist2
+# Geologist
+Geologist Project
